@@ -1,0 +1,246 @@
+# Blender MTL File: 'ModelRenderLighting.blend'
+# Material Count: 17
+
+newmtl 25_+Head.+human_female_hair_00.hair_0.3_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.672341 0.796578 0.452170
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd human_f_hair00_diff.png
+map_Bump human_f_hair00_norm.png
+map_Ks human_f_hair00_spec.png
+map_d human_f_hair00_diff.png
+
+newmtl 27_+Glock_(Left).+Slider.Mesh1_0.3_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.591238 0.707765 0.710423
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd slide.png
+map_Bump slide_n.png
+map_Ke env.png
+map_d slide.png
+refl env.png
+
+newmtl 27_+Glock_(Left).+mag.Mesh1_0.3_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.764693 0.509996 0.521329
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mag.png
+map_Bump mag_n.png
+map_Ke env.png
+map_d mag.png
+refl env.png
+
+newmtl 27_+Glock_(Left).Mesh1_0.3_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.646769 0.530840 0.479033
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd base.png
+map_Bump base_n.png
+map_Ke env.png
+map_d base.png
+refl env.png
+
+newmtl 27_+Glock_(Left).Mesh2_0.3_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.731134 0.696468 0.473390
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd internal.png
+map_Bump bumpmap_flat.png
+map_Ke env.png
+map_d internal.png
+refl env.png
+
+newmtl 27_+Glock_(Right).+Slider.Mesh1_0.3_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.417465 0.758350 0.683051
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd slide.png
+map_Bump slide_n.png
+map_Ke env.png
+map_d slide.png
+refl env.png
+
+newmtl 27_+Glock_(Right).+mag.Mesh1_0.3_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.587021 0.663931 0.585829
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mag.png
+map_Bump mag_n.png
+map_Ke env.png
+map_d mag.png
+refl env.png
+
+newmtl 27_+Glock_(Right).Mesh1_0.3_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.674817 0.799306 0.534330
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd base.png
+map_Bump base_n.png
+map_Ke env.png
+map_d base.png
+refl env.png
+
+newmtl 27_+Glock_(Right).Mesh2_0.3_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.729336 0.416190 0.701494
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd internal.png
+map_Bump bumpmap_flat.png
+map_Ke env.png
+map_d internal.png
+refl env.png
+
+newmtl 40_+Head.Material36_1_0_0.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.634175 0.539213 0.486825
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd femalehead1.png
+map_Bump femalehead_msn.png
+map_Ks femalehead_s.png
+map_d femalehead1.png
+
+newmtl 41_+Head.Material26_1_0_0.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.528580 0.651641 0.545849
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd eye.png
+map_Bump eyen.png
+map_Ks Material26_specular.png
+map_d eye.png
+
+newmtl 41_+Head.Material26_1_0_0.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.734769 0.752219 0.747810
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd eye.png
+map_Bump eyen.png
+map_Ks Material26_specular.png
+map_d eye.png
+
+newmtl 41_+Head.Material33_1_0_0.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.587991 0.685848 0.513036
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mouthhuman.png
+map_Bump mouthhuman_n.png
+map_Ks Material33_specular.png
+map_d mouthhuman.png
+
+newmtl 41_+Head.Material33_1_0_0.007
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.438134 0.589204 0.413336
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mouthhuman.png
+map_Bump mouthhuman_n.png
+map_Ks Material33_specular.png
+map_d mouthhuman.png
+
+newmtl 41_+Head.Material33_1_0_0.008
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.516197 0.743265 0.563220
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd mouthhuman.png
+map_Bump mouthhuman_n.png
+map_Ks Material33_specular.png
+map_d mouthhuman.png
+
+newmtl 6_blackwidowthunderbolts_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.427829 0.444452 0.637978
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd BlackWidow_Thunderbolts_Diff.png
+map_Bump BlackWidow_Thunderbolts_Norm.png
+map_d BlackWidow_Thunderbolts_Diff.png
+
+newmtl 6_blackwidowthunderboltsbodymat_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.610682 0.744529 0.459697
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd BlackWidow_Thunderbolts_Diff.png
+map_Bump BlackWidow_Thunderbolts_Norm.png
+map_d BlackWidow_Thunderbolts_Diff.png
